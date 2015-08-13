@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/mail.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jars-core/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
